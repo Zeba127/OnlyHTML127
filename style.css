@@ -1,0 +1,18 @@
+body{background-color: blueviolet;}
+a:link{color: powderblue;}
+a:visited{color: green;}
+a:hover{text-decoration: none;color:black;}
+img{width: 300px; border: 5px snow;}
+table{width: 50%;}
+table td{text-align: center;border: 1px solid #fff;}
+table th{background: brown;color: bisque;padding: 10px;}
+table tr:nth-child(2n+1){background-color: aqua;}
+ul{list-style-type: square;}
+iframe{width: 100px;height: 200px;}
+ul{list-style-type: circle;}
+h1{border: 1px solid red}
+span{border: 1px solid red}
+div{background-color: wheat;margin-bottom: 5px;padding:3px}
+.blue{background-color: blue;}
+.font{font-size: 50px;}
+#Top{background: brown;color: black;}
